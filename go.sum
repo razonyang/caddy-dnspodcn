@@ -1,5 +1,5 @@
-clevergo.tech/dnspodcn v0.1.0 h1:9TFX+Q5sOYYStmHCzjV33g7JchTQeKf+Zv6cTG4dPWw=
-clevergo.tech/dnspodcn v0.1.0/go.mod h1:4Io4XQwW3CebXd/irrpygiiuCsAaHP4yAi1CIb5hBRc=
+clevergo.tech/dnspodcn v0.1.1 h1:0D8hKcHXpG4/O9A3K+jghPYmty8FPumbOOVrJM0DjGQ=
+clevergo.tech/dnspodcn v0.1.1/go.mod h1:4Io4XQwW3CebXd/irrpygiiuCsAaHP4yAi1CIb5hBRc=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.31.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
