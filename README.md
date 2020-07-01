@@ -25,11 +25,10 @@ $ xcaddy build --with clevergo.tech/caddy-dnspodcn
 `Caddyfile` example:
 
 ```nginx
-## defines a dnspodcn snippet
+# defines a dnspodcn snippet
 (dnspodcn) {
     dns dnspodcn APP_ID APP_TOKEN
 }
-
 
 domain.tld {
     tls {
