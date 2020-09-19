@@ -1,9 +1,12 @@
 # Caddy2 DNSPod.cn DNS Provider Module
-[![Build Status](https://img.shields.io/travis/clevergo/caddy-dnspodcn?style=for-the-badge)](https://travis-ci.org/clevergo/caddy-dnspodcn)
-[![Coverage Status](https://img.shields.io/coveralls/github/clevergo/caddy-dnspodcn?style=for-the-badge)](https://coveralls.io/github/clevergo/caddy-dnspodcn)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white&style=for-the-badge)](https://pkg.go.dev/clevergo.tech/caddy-dnspodcn?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/clevergo/caddy-dnspodcn?style=for-the-badge)](https://goreportcard.com/report/github.com/clevergo/caddy-dnspodcn)
-[![Release](https://img.shields.io/github/release/clevergo/caddy-dnspodcn.svg?style=for-the-badge)](https://github.com/clevergo/caddy-dnspodcn/releases)
+[![Build Status](https://img.shields.io/travis/clevergo/caddy-dnspodcn?style=flat-square)](https://travis-ci.org/clevergo/caddy-dnspodcn)
+[![Coverage Status](https://img.shields.io/coveralls/github/clevergo/caddy-dnspodcn?style=flat-square)](https://coveralls.io/github/clevergo/caddy-dnspodcn)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/clevergo.tech/caddy-dnspodcn?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/clevergo/caddy-dnspodcn?style=flat-square)](https://goreportcard.com/report/github.com/clevergo/caddy-dnspodcn)
+[![Release](https://img.shields.io/github/release/clevergo/caddy-dnspodcn.svg?style=flat-square)](https://github.com/clevergo/caddy-dnspodcn/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https://pkg.clevergo.tech/api/badges/downloads/total/clevergo.tech/caddy-dnspodcn?style=flat-square)](https://pkg.clevergo.tech/clevergo.tech/caddy-dnspodcn)
+[![Chat](https://img.shields.io/badge/chat-telegram-blue?style=flat-square)](https://t.me/clevergotech)
+[![Community](https://img.shields.io/badge/community-forum-blue?style=flat-square&color=orange)](https://forum.clevergo.tech)
 
 
 ## Usage
