@@ -41,5 +41,28 @@ domain.tld {
 }
 ```
 
+`json` example:
+
+```nginx
+          "issuers": [{
+            "module": "acme",
+            "challenges": {
+              "dns": {
+                "provider": {
+                  "Language": "en",
+                  "BaseURL": "https://dnsapi.cn",
+                  "name": "dnspodcn",
+                  "AppID": "APP_ID",
+                  "AppToken": "APP_TOKEN"
+                }
+              }
+            }
+          }]
+        }]
+      }
+    }
+  }
+}
+```
 - `APP_ID`: API ID.
 - `APP_TOKEN`: API TOKEN.
