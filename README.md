@@ -27,42 +27,26 @@ $ xcaddy build --with clevergo.tech/caddy-dnspodcn
 
 `Caddyfile` example:
 
-```nginx
-# defines a dnspodcn snippet
-(dnspodcn) {
-    dns dnspodcn APP_ID APP_TOKEN
-}
-
-domain.tld {
-    tls {
-        # imports dnspodcn setting.
-        import dnspodcn
-    }
+```
+tls {
+  dns dnspodcn APP_ID APP_TOKEN
 }
 ```
 
 `json` example:
 
-```nginx
-          "issuers": [{
-            "module": "acme",
-            "challenges": {
-              "dns": {
-                "provider": {
-                  "Language": "en",
-                  "BaseURL": "https://dnsapi.cn",
-                  "name": "dnspodcn",
-                  "AppID": "APP_ID",
-                  "AppToken": "APP_TOKEN"
-                }
-              }
-            }
-          }]
-        }]
+```
+  "challenges": {
+    "dns": {
+      "provider": {
+        "Language": "en",
+        "BaseURL": "https://dnsapi.cn",
+        "name": "dnspodcn",
+        "AppID": "APP_ID",
+        "AppToken": "APP_TOKEN"
       }
     }
   }
-}
 ```
 - `APP_ID`: API ID.
 - `APP_TOKEN`: API TOKEN.
