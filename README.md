@@ -36,6 +36,8 @@ tls {
 `json` example:
 
 ```
+{
+  "module": "acme",
   "challenges": {
     "dns": {
       "provider": {
@@ -47,6 +49,7 @@ tls {
       }
     }
   }
+}
 ```
 
 - `APP_ID`: API ID.
