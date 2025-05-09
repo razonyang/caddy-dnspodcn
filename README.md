@@ -8,6 +8,7 @@
 [![Chat](https://img.shields.io/badge/chat-telegram-blue?style=flat-square)](https://t.me/clevergotech)
 [![Community](https://img.shields.io/badge/community-forum-blue?style=flat-square&color=orange)](https://forum.clevergo.tech)
 
+**Since the DNSPod.cn API will be deprecated soon, this project now is archived, please use https://github.com/caddy-dns/tencentcloud instead.**
 
 ## Usage
 
